@@ -16,16 +16,22 @@ IT 업무라는 것은 팀을 단위로 이루어지기 때문에 공통의 성�
 <br>
 [![unihit's github stats](https://github-readme-stats.vercel.app/api?username=unihit&theme=dracula&show_icons=true)](https://github.com/unihit)
 
+Stack
+---
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 ### 자격증
 ---
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/40714505/144989293-1a9e6396-9738-45a7-a611-2fd422fd251d.png)
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/40714505/144989488-d2a66af6-2056-47b7-8ff8-528753f57812.png)
 
 
 <!--
-**unihit/unihit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**unihit/unihit** is a ✨ _special_ ✨ repository because it![Uploading aws-certified-solutions-architect-associate.png…]()
+s `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
