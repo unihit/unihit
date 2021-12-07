@@ -13,21 +13,26 @@
 IT 업무라는 것은 팀을 단위로 이루어지기 때문에 공통의 성격을 지니는 팀의 성공이 없이 개인의 성공만으로는 제대로된 성공을 이루기가 힘들다고 생각합니다. 🤔💬<br>
 서로의 성취를 위해 팀 내부의 개개인의 구성원을 돕고 공통의 목표를 향해 나아가는 것이 일의 핵심이라고 생각합니다. 👯<br>
 그리고 사소하지만 'hit'는 제 이름 '황인태'의 이니셜이기도 합니다! 😄<br>
-
+<div align="center">
+  
 ### 💻 Teck Stack
 ---
+  
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
+  
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
 ### 📝 자격증
 ---
+
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/40714505/144989488-d2a66af6-2056-47b7-8ff8-528753f57812.png)
 
----
-[![unihit's github stats](https://github-readme-stats.vercel.app/api?username=unihit&theme=dracula&show_icons=true)](https://github.com/unihit)
+  ---
+  
+  [![unihit's github stats](https://github-readme-stats.vercel.app/api?username=unihit&theme=dracula&show_icons=true)](https://github.com/unihit)
+</div>
+
 
 <!--
 **unihit/unihit** is a ✨ _special_ ✨ repository because it![Uploading aws-certified-solutions-architect-associate.png…]()
