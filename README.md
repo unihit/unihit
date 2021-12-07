@@ -16,9 +16,13 @@ IT 업무라는 것은 팀을 단위로 이루어지기 때문에 공통의 성�
 <br>
 [![unihit's github stats](https://github-readme-stats.vercel.app/api?username=unihit&theme=dracula&show_icons=true)](https://github.com/unihit)
 
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="16b1ab67-a2ab-427a-9edd-fb350b881131" data-share-badge-host="https://www.credly.com"></div>
-</script>
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+### 자격증
+---
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/40714505/144989293-1a9e6396-9738-45a7-a611-2fd422fd251d.png)
+
 
 <!--
 **unihit/unihit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
