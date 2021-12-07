@@ -16,6 +16,7 @@ IT 업무라는 것은 팀을 단위로 이루어지기 때문에 공통의 성�
 <br>
 [![unihit's github stats](https://github-readme-stats.vercel.app/api?username=unihit&theme=dracula&show_icons=true)](https://github.com/unihit)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="16b1ab67-a2ab-427a-9edd-fb350b881131" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **unihit/unihit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
