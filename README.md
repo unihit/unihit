@@ -28,6 +28,7 @@ IT 업무라는 것은 팀을 단위로 이루어지기 때문에 공통의 성�
   ---
 
   ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/40714505/144989488-d2a66af6-2056-47b7-8ff8-528753f57812.png)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc1c3987-31ad-4f12-ad4d-3fbd1bbbfef7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
   ---
   
