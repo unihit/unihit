@@ -28,10 +28,11 @@ IT 업무라는 것은 팀을 단위로 이루어지기 때문에 공통의 성�
   ---
 
   ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/40714505/144989488-d2a66af6-2056-47b7-8ff8-528753f57812.png)
-  ![aws-certified-solutions-architect-professional](https://github.com/unihit/unihit/assets/40714505/3dc608b9-d669-4840-9ec5-b63a114cb7c1)
+  ![aws-certified-solutions-architect-professional](https://github.com/unihit/unihit/assets/40714505/fd048ef9-575d-448d-a4b3-24eb2b2b11dd)
   ![aws-partner-accreditation-technical](https://github.com/unihit/unihit/assets/40714505/3b7e5e24-4123-47ae-85d8-10298f00d964)
   ![cka-certified-kubernetes-administrator](https://github.com/unihit/unihit/assets/40714505/5b023374-7068-4fd8-ac4f-563c8e3d6645)
   ![cka-certified-kubernetes-administrator](https://github.com/unihit/unihit/assets/40714505/6d3bc35f-6de4-47cb-9847-a82f79cf8d19)
+  
 
   ---
   
