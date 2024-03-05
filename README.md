@@ -26,14 +26,10 @@ IT 업무라는 것은 팀을 단위로 이루어지기 때문에 공통의 성�
 
   ## 📝 자격증
   ---
-
-  ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/40714505/144989488-d2a66af6-2056-47b7-8ff8-528753f57812.png)
+  ![aws-certified-solutions-architect-professional](https://github.com/unihit/unihit/assets/40714505/21e9603f-3c3b-43b3-8e1f-180bb7802f0b)
   ![aws-certified-solutions-architect-professional](https://github.com/unihit/unihit/assets/40714505/fd048ef9-575d-448d-a4b3-24eb2b2b11dd)
-  ![aws-partner-accreditation-technical](https://github.com/unihit/unihit/assets/40714505/3b7e5e24-4123-47ae-85d8-10298f00d964)
-  ![cka-certified-kubernetes-administrator](https://github.com/unihit/unihit/assets/40714505/5b023374-7068-4fd8-ac4f-563c8e3d6645)
-  ![cka-certified-kubernetes-administrator](https://github.com/unihit/unihit/assets/40714505/6d3bc35f-6de4-47cb-9847-a82f79cf8d19)
-  
-
+  ![aws-partner-accreditation-technical](https://github.com/unihit/unihit/assets/40714505/2afba40f-9668-45fb-948f-f51e0e537a84)
+  ![cka-certified-kubernetes-administrator](https://github.com/unihit/unihit/assets/40714505/daf0c77c-22c0-4eab-87be-695aa0c52c73)
   ---
   
   [![unihit's github stats](https://github-readme-stats.vercel.app/api?username=unihit&theme=dracula&show_icons=true)](https://github.com/unihit)
