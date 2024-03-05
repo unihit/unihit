@@ -26,8 +26,8 @@ IT 업무라는 것은 팀을 단위로 이루어지기 때문에 공통의 성�
 
   ## 📝 자격증
   ---
+  ![aws-certified-solutions-architect-associate](https://github.com/unihit/unihit/assets/40714505/9697df96-d084-4dce-baa4-17d69a5a54d1)
   ![aws-certified-solutions-architect-professional](https://github.com/unihit/unihit/assets/40714505/21e9603f-3c3b-43b3-8e1f-180bb7802f0b)
-  ![aws-certified-solutions-architect-professional](https://github.com/unihit/unihit/assets/40714505/fd048ef9-575d-448d-a4b3-24eb2b2b11dd)
   ![aws-partner-accreditation-technical](https://github.com/unihit/unihit/assets/40714505/2afba40f-9668-45fb-948f-f51e0e537a84)
   ![cka-certified-kubernetes-administrator](https://github.com/unihit/unihit/assets/40714505/daf0c77c-22c0-4eab-87be-695aa0c52c73)
   ---
